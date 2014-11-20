@@ -1,0 +1,27 @@
+{
+  "name": "djangular-docker-skeleton",
+  "version": "0.0.1",
+  "homepage": "https://github.com/joshfinnie/djangular-docker-skeleton",
+  "authors": [
+    "Josh Finnie <josh@jfin.us>"
+  ],
+  "description": "A skeleton project that sets up Docker, Angular, and Django (with Django Rest Framework).",
+  "main": "angular/index.html",
+  "keywords": [
+    "angular",
+    "docker",
+    "djang",
+    "django",
+    "rest",
+    "framework"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

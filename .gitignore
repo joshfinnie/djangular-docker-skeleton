@@ -24,5 +24,16 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
 node_modules
 
+# Python compiled files
+*.pyc
+
+# SqLite3 database
+*.sqlite3
+
 # Users Environment Variables
 .lock-wscript
+.env
+.ropeproject/
+
+# Bower assets
+angular/assets/lib/
